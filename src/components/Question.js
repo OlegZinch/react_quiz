@@ -1,7 +1,7 @@
 import Options from './Options'
 
 function Question({ question, dispatch, answer }) {
-  console.log('question:', question)
+  // console.log('question:', question)
 
   return (
     <div>
